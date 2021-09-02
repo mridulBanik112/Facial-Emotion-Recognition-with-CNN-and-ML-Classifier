@@ -1,4 +1,4 @@
-# CNN
+# Facial Emotion Recognition of Autistic children
 There are two files .
 "facial expression...... cnn with KERAS ....." is the code for CNN with keras with all the images,model summary,graph and accuracy.
 
